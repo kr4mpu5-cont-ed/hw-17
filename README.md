@@ -2,8 +2,6 @@
 
 Assignment: Create a workout tracker using Mongo, Mongoose, and Express.
 
-[see assignment READ.md](./_reference/readme.md)
-
 
 ### Acceptance Criteria
 
@@ -22,6 +20,5 @@ User can:
 
 
 ## Submission on BCS
-You are required to submit the following:
 * [ ] Deployed application URL
 * [ ] Github repository URL
